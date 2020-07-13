@@ -57,7 +57,8 @@ font-size:14px;
 
 /* =============================== header ===================================== */
 .header{
-background: url(../img/bghead.jpg) no-repeat center fixed;
+background: url(../img/cool.jpg) no-repeat center fixed;
+    /*image from: https://uhdwallpapers.org/wallpaper/huawei-mediapad-m6-stock-wallpaper_666874/1280x800/*/
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
